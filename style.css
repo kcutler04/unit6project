@@ -1,0 +1,27 @@
+body {
+  color:#8C1F52;
+  background-image: url("background1.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#wrapper{
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+ul{
+  list-style-image: url("marker2.png");
+}
+.border{
+ border: 30px solid;
+ padding: 10px;
+ border-image-source: url(border-image-6.svg); 
+ border-image-slice: 30;
+}
+#borderimg{
+   background-color: #45AADA
+}
+#dead {
+  height:300px;
+}
